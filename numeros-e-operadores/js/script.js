@@ -1,0 +1,23 @@
+var idade = 30;
+var soma = 150 + 50;
+var subtracao = 250 - 50;
+var multiplicacao = 25 * 36;
+var divisao = 450 / 7;
+var expoente = 2 ** 4;
+var modulo = 450 % 7;
+var striSub = '150' - 50;
+var striDiv = '150' / 5;
+var striMulti = '150' * 5;
+var stridivErr = ' tenho 150' / 5;
+
+console.log(idade);
+console.log(soma);
+console.log(subtracao);
+console.log(multiplicacao);
+console.log(divisao);
+console.log(expoente);
+console.log(modulo);
+console.log(striSub);
+console.log(striDiv);
+console.log(striMulti);
+console.log(stridivErr);
